@@ -13,7 +13,7 @@
 # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 # class Solution(object):
-def twoSum( nums, target):
+def twoSum( nums, target): 
     """
     :type nums: List[int]
     :type target: int
